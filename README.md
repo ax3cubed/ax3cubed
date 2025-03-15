@@ -1,5 +1,6 @@
 # Hi, I'm Adeola 👑:
-🔭 **I’m currently working on:**  <br>Building innovative solutions and exploring creative AR experiences for greeting cards.  <br><br>🤝 **I’m looking to collaborate on:**  <br>I am interested in tech projects that make a real impact, especially in full-stack development, security, creative tech, and Artificial intelligence.  <br><br>🫱 **I’m looking for help with:**  <br>Expanding my knowledge in Inteleigence Oriented Applications and Agentic AI.  <br><br>🌱 **I’m currently learning:**  <br>Advanced concepts for security-oriented applications, microservices, and blockchain development.  <br><br>💬 **Ask me about:**  <br>C#, Python, Node.js, GraphQL, and building meaningful tech experiences.  
+🔭  Building innovative solutions and exploring creative AR experiences for greeting cards.  <br>
+🤝  I am interested in tech projects that make a real impact, especially in full-stack, security, creative tech, and AI.  <br>🫱 **I’m looking for help with:**  Expanding my knowledge in Inteleigence Oriented Applications and Agentic AI.  <br>🌱 **I’m currently learning:**  Advanced concepts for security-oriented applications, microservices, and blockchain development.  <br>💬 **Ask me about:**  C#, Python, Node.js, GraphQL, and building meaningful tech experiences.  
 
 
 ## 🌐 Socials:
