@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🥷🏽 CodeWars
-[![CodeWars](https://www.codewars.com/users/ajunior488/badges/large)
+[![CodeWars](https://www.codewars.com/users/ajunior488/badges/large)](https://www.codewars.com/users/ajunior488)
 ---
 [![](https://visitcount.itsvg.in/api?id=ax3cubed&icon=0&color=0)](https://visitcount.itsvg.in)
 
